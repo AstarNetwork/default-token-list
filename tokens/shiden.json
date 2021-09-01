@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Wrapped Shiden",
+    "address": "0x",
+    "symbol": "WSDN",
+    "decimals": 18,
+    "chainId": 80,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sdn.jpg"
+  }
+]
